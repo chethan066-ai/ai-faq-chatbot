@@ -1,0 +1,29 @@
+[
+  {
+    "patterns": [
+      "apply",
+      "application"
+    ],
+    "answer": "To apply, fill out the official StaxTech form."
+  },
+  {
+    "patterns": [
+      "project",
+      "projects"
+    ],
+    "answer": "You need to complete 2 projects for this internship."
+  },
+  {
+    "patterns": [
+      "certificate"
+    ],
+    "answer": "You will get Internship Completion, Project Owned, and other certificates."
+  },
+  {
+    "patterns": [
+      "contact",
+      "email"
+    ],
+    "answer": "Contact: StaxTechinfo@gmail.com"
+  }
+]
